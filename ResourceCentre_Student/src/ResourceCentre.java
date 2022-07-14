@@ -1,6 +1,4 @@
 
-//Matthew 21028831
-
 import java.util.ArrayList;
 
 public class ResourceCentre {
