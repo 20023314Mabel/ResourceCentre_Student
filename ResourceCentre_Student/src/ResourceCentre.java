@@ -1,4 +1,9 @@
 
+
+//Matthew 21028831
+//Mable 21022328
+
+//>>>>>>> branch 'master' of https://github.com/20023314Mabel/ResourceCentre_Student.git
 import java.util.ArrayList;
 
 public class ResourceCentre {
