@@ -199,7 +199,7 @@ public class ResourceCentre {
 		chromebookList.add(cb);
 	}
 	
-	//================================= Option 3 Loan an item (CRUD - Update) =================================
+	//================================= Option 3 Loan an item (CRUD - Update) ================================
 	public static boolean doLoanCamcorder(ArrayList<Camcorder> camcorderList, String tag, String dueDate) {
 		
 		boolean isLoaned = false;
